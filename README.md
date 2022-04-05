@@ -11,11 +11,15 @@ Model:
 
 
 ### Results
+Model comparions from the main paper [2]
 
-<img src="https://github.com/Hosseinadeli/OCRA_ControversialStimuli/blob/main/figures/fig4a.png">
-
-
-
+<!-- <img src="https://github.com/Hosseinadeli/OCRA_ControversialStimuli/blob/main/figures/fig4a.png">
+"The performance of the candidate MNIST (A) and CIFAR-10 (B) models in predicting the human responses to the entire stimulus set. Each dot marks
+the correlation coefficient between the responses of one individual human participant and one model (Eq. 3). The vertical bars mark across-subject means
+(¯rM). The gray dots mark the correlation between each participant’s responses and the mean response pattern of the other participants. The mean of the
+gray dots (a black bar) is the lower bound of the noise ceiling. The dashed line (“best possible model”) marks the highest across-subject mean correlation
+achievable by any single model.
+ -->
 
 
 -------------------------------------------------------------------------------------------------------
