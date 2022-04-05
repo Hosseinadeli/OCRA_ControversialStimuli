@@ -12,14 +12,14 @@ Model:
 
 ### Results
 
-<img src="https://raw.githubusercontent.com/hosseinadeli/OCRA_ControversialStimuli/tree/main/figures/fig4a.png">
+<img src="https://github.com/Hosseinadeli/OCRA_ControversialStimuli/blob/main/figures/fig4a.png">
 
 
 
 
 
 -------------------------------------------------------------------------------------------------------
-<img src="https://raw.githubusercontent.com/hosseinadeli/OCRA_ControversialStimuli/tree/main/figures/generated_10_time_steps_t1.gif.png">
+<img src="https://github.com/Hosseinadeli/OCRA_ControversialStimuli/blob/main/figures/generated_10_time_steps_t1.gif">
 
 
 
